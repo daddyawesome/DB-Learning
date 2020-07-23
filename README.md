@@ -5,7 +5,7 @@
 - SQL: Data Reporting and Analysis
 
 2. [Become a Database Developer](https://www.linkedin.com/learning/paths/become-a-database-developer)
-- Programming Foundations: Databases
+- *Programming Foundations: Databases* **Done Above**
 - Database Clinic: SQLite
 - SQL Essential Training
 - MySQL Essential Training
