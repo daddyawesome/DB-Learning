@@ -11,8 +11,8 @@ Credential ID:  [AcbDdmE03tuJNBlkzRBadIWMoygI](https://daddyawesome.github.io/wr
 - *Programming Foundations: Databases* **Done Above**
 - Database Clinic: SQLite (Started: July 25, 2020 - []())not done
 - *SQL Essential Training* **Done Above**
-- MySQL Essential Training
-- Learning SQL Programming
+- MySQL Essential Training (Doing this after Python)
+- Learning SQL Programming (Doing this after Python)
 
 3. [Master SQL for Data Science](https://www.linkedin.com/learning/paths/master-sql-for-data-science)
 - SQL Essential Training
