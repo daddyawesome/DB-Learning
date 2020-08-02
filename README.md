@@ -9,7 +9,7 @@ Credential ID:  [AcbDdmE03tuJNBlkzRBadIWMoygI](https://daddyawesome.github.io/wr
 
 2. [Become a Database Developer](https://www.linkedin.com/learning/paths/become-a-database-developer)
 - *Programming Foundations: Databases* **Done Above**
-- Database Clinic: SQLite (Started: July 25, 2020 - []())not done
+- Database Clinic: SQLite (Started: July 25, 2020 - [Certificate of Completion](https://daddyawesome.github.io/writings/Certificates/CertificateOfCompletion_Database%20Clinic_%20SQLite.pdf))
 - *SQL Essential Training* **Done Above**
 - MySQL Essential Training (Doing this after Python)
 - Learning SQL Programming (Doing this after Python)
