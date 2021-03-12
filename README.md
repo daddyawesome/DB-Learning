@@ -22,3 +22,5 @@ Credential ID:  [AcbDdmE03tuJNBlkzRBadIWMoygI](https://daddyawesome.github.io/wr
 - SQL Tips, Tricks, & Techniques
 - Cloud NoSQL for SQL Professionals
 - Presto Essentials: Data Science
+
+4. [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
